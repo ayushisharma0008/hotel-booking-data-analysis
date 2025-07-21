@@ -26,5 +26,4 @@ Analyzing booking and cancellation behavior.
 Identifying peak cancellation periods.
 Comparing trends across hotel types and customer segments.
 
-🛠️ Tools Used
-Power BI / Tableau / Excel (specify the tool you used)
+🛠️ Tools Used : Excel
